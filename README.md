@@ -23,5 +23,5 @@ Each row corresponds to the corresponding row of the feature file.
 - Assume initial w is all zeros, the total number of iterations T is 1000, and learning rate 𝜂 is a constant.
 - Cross-validation. Training with different values of μ = {0.0001, 0.0003, 0.001, 0.003, 0.01, 0.03, 0.1, 0.3, 0.6, 1, 1.3, 3, 10}.
 - The best value 𝜂 = 1.
-- The test error is 0.119522. 
+- The test error is 0.119522. <br> 
 PS: remember to change the path.
